@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### <p align="center">✨ Tech Stack ✨</p>
 
-#### <p align="center">[**Front-End**]</p>
+#### <p align="center"><strong>[Front-End]</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
