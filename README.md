@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
 
----
 
 ## Tech Stack
 
@@ -67,7 +66,6 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
 
 ## Projects
 
@@ -83,7 +81,6 @@ Here are some ideas to get you started:
 - **2023 JS/React study** - SNS
 - **2023 NodeJS study**
 
----
 
 ## Other
 
