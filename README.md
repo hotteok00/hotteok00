@@ -102,3 +102,7 @@ Here are some ideas to get you started:
 ### Books and Study
 - **CS 책**
 - **스터디**: JavaScript, React, Coding Test
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
