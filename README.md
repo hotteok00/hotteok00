@@ -116,7 +116,6 @@ Here are some ideas to get you started:
 
 ### <p align="center">Awards</p>
 <p align="center">
-  (수상 내역을 여기에 추가하세요)
 </p>
 
 ### <p align="center">Languages</p>
