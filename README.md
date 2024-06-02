@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-### <p align="center">Tech Stack</p>
+### <p align="center">✨ Tech Stack ✨</p>
 
 #### <p align="center">Front-End</p>
 <p align="center">
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ---
 
-### <p align="center">Projects</p>
+### <p align="center">📁 Projects 📁</p>
 
 #### <p align="center">Academic</p>
 <p align="center">
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 ---
 
-### <p align="center">Other</p>
+### <p align="center">⚓ Other ⚓</p>
 
 #### <p align="center">Certifications</p>
 <p align="center">
