@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Tech Stack
+# Tech Stack
 
 ### Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
 
-## Projects
+
+# Projects
 
 ### Academic
 - **2023 SW Design** - Financial Ledger
@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 - **2023 JS/React study** - SNS
 - **2023 NodeJS study**
 
----
 
-## Other
+
+# Other
 
 ### Certifications
 - **정보처리기사**
