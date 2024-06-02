@@ -138,6 +138,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hotteok00&show_icons=true&theme=radical" alt="hotteok's GitHub stats">
-  <p></p>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotteok00&layout=compact" alt="Top Langs">
 </p>
