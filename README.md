@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My GitHub Page
 <!--
+# Welcome to My GitHub Page
 ![GitHub followers](https://img.shields.io/github/followers/hotteok00?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+---
 
 ## Projects
 
@@ -81,6 +82,7 @@ Here are some ideas to get you started:
 - **2023 JS/React study** - SNS
 - **2023 NodeJS study**
 
+---
 
 ## Other
 
