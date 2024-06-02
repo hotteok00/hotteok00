@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-
+---
 # Projects
 
 ### Academic
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 - **2023 NodeJS study**
 
 
-
+---
 # Other
 
 ### Certifications
