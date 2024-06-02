@@ -19,6 +19,18 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/hotteok00?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
+
+---
+
+
+# Welcome to My GitHub Page
+<!--
+![GitHub followers](https://img.shields.io/github/followers/hotteok00?style=social)
+![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
+-->
+
+---
+
 ## Tech Stack
 
 ### Front-End
@@ -64,25 +76,29 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+---
+
 ## Projects
 
 ### Academic
-- 2023 SW Design - Financial Ledger
-- 2023 SW Engineering - Video Platform
-- 2024 MIDAS - Fashion Recommend SNS
+- **2023 SW Design** - Financial Ledger
+- **2023 SW Engineering** - Video Platform
+- **2024 MIDAS** - Fashion Recommend SNS
 
 ### Outsourcing
-- 2023 NaviCode
+- **2023 NaviCode**
 
 ### Study
-- 2023 JS/React study - SNS
-- 2023 NodeJS study
+- **2023 JS/React study** - SNS
+- **2023 NodeJS study**
+
+---
 
 ## Other
 
 ### Certifications
-- 정보처리기사
-- IP정보검색사
+- **정보처리기사**
+- **IP정보검색사**
 
 ### Awards
 - (수상 내역을 여기에 추가하세요)
@@ -91,9 +107,8 @@ Here are some ideas to get you started:
 ![TOEIC](https://img.shields.io/badge/TOEIC-800-blue)
 
 ### Additional Training
-- 포항테크노파크 - 인공지능 중급과정 이수
+- **포항테크노파크** - 인공지능 중급과정 이수
 
 ### Books and Study
-- CS 책
-- 스터디: JavaScript, React, Coding Test
-
+- **CS 책**
+- **스터디**: JavaScript, React, Coding Test
