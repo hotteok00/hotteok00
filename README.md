@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to My GitHub Page
-
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/hotteok00?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
-
-## Skill Stack
+-->
+## Tech Stack
 
 ### Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
