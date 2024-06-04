@@ -116,6 +116,7 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Awards]</p>
 <p align="center">
+  <strong>한국정보통신학회 2024 춘계종합학술대회 학생우수논문상</strong>
 </p>
 
 #### <p align="center">[Languages]</p>
