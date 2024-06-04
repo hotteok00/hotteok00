@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Awards]</p>
 <p align="center">
-  <strong>한국정보통신학회</strong> - 2024 춘계종합학술대회 학생우수논문상
+  <strong>2024 춘계종합학술대회 학생우수논문상</strong> - 한국정보통신학회
 </p>
 
 #### <p align="center">[Languages]</p>
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Additional Training]</p>
 <p align="center">
-  <strong>포항테크노파크</strong> - 인공지능 중급과정 이수
+  <strong>인공지능 중급과정 이수</strong> - 포항테크노파크
 </p>
 
 #### <p align="center">[Books and Study]</p>
