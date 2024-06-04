@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Awards]</p>
 <p align="center">
-  <strong>한국정보통신학회 2024 춘계종합학술대회 학생우수논문상</strong>
+  <strong>한국정보통신학회</strong> - 2024 춘계종합학술대회 학생우수논문상
 </p>
 
 #### <p align="center">[Languages]</p>
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Books and Study]</p>
 <p align="center">
-  <strong>CS 책</strong><br>
+  <strong>CS 책</strong>: (link 추가 예정)<br>
   <strong>스터디</strong>: JavaScript, React, Coding Test
 </p>
 
