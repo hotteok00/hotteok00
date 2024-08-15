@@ -20,6 +20,27 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
 
+### <p align="center">📁 Projects 📁</p>
+
+#### <p align="center">[Academic]</p>
+<p align="center">
+  <strong>2023.03~2023.06 SW Design</strong> - Financial Ledger<br>
+  <strong>2023.09~2023.12 SW Engineering</strong> - Video Platform<br>
+  <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS
+</p>
+
+#### <p align="center">[Outsourcing]</p>
+<p align="center">
+  <strong>2023.08~2023.10 NaviCode</strong>
+</p>
+
+#### <p align="center">[Study]</p>
+<p align="center">
+  <strong>2023 JS/React study</strong> - SNS<br>
+  <strong>2023 NodeJS study</strong>
+</p>
+
+---
 
 ### <p align="center">✨ Tech Stack ✨</p>
 
@@ -84,28 +105,6 @@ Here are some ideas to get you started:
 
 ---
 
-### <p align="center">📁 Projects 📁</p>
-
-#### <p align="center">[Academic]</p>
-<p align="center">
-  <strong>2023 SW Design</strong> - Financial Ledger<br>
-  <strong>2023 SW Engineering</strong> - Video Platform<br>
-  <strong>2024 MIDAS</strong> - Fashion Recommend SNS
-</p>
-
-#### <p align="center">[Outsourcing]</p>
-<p align="center">
-  <strong>2023 NaviCode</strong>
-</p>
-
-#### <p align="center">[Study]</p>
-<p align="center">
-  <strong>2023 JS/React study</strong> - SNS<br>
-  <strong>2023 NodeJS study</strong>
-</p>
-
----
-
 ### <p align="center">⚓ Other ⚓</p>
 
 #### <p align="center">[Certifications]</p>
@@ -119,10 +118,12 @@ Here are some ideas to get you started:
   <strong>2024 춘계종합학술대회 학생우수논문상</strong> - 한국정보통신학회
 </p>
 
+<!--
 #### <p align="center">[Languages]</p>
 <p align="center">
   <img src="https://img.shields.io/badge/TOEIC-800-blue" alt="TOEIC">
 </p>
+-->
 
 #### <p align="center">[Additional Training]</p>
 <p align="center">
