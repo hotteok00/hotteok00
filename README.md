@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Academic]</p>
 <p align="center">
-  <strong>2023.03~2023.06 SW Design</strong> - Financial Ledger <a href="https://github.com/Coordikitty/coordikitty-BE">✨</a> <br>
+  <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS <a href="https://github.com/Coordikitty/coordikitty-BE">✨</a> <br>
   <strong>2023.09~2023.12 SW Engineering</strong> - Video Platform <a href="https://github.com/hotteok00/vertex">✨</a> <br>
-  <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS
+  <strong>2023.03~2023.06 SW Design</strong> - Financial Ledger 
 </p>
 
 #### <p align="center">[Outsourcing]</p>
