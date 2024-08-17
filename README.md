@@ -76,9 +76,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </p>
 
-#### <p align="center">[Middleware]</p>
+#### <p align="center">[Cloud]</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=while" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
 </p>
 
 #### <p align="center">[Virtualization]</p>
@@ -86,6 +87,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/WSL-4E9C13?style=for-the-badge&logo=linux&logoColor=white" alt="WSL">
+</p>
+
+#### <p align="center">[Middleware]</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </p>
 
 #### <p align="center">[IoT]</p>
