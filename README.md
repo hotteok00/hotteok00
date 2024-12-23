@@ -117,6 +117,7 @@ Here are some ideas to get you started:
 #### <p align="center">[Certifications]</p>
 <p align="center">
   <strong>정보처리기사</strong><br>
+  <strong>SQLD</strong><br>
   <strong>IP정보검색사</strong>
 </p>
 
