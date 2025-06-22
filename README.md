@@ -22,9 +22,17 @@ Here are some ideas to get you started:
 
 ### <p align="center">📁 Projects 📁</p>
 
+#### <p align="center">[Doosan Rokey Boot Camp 3기]</p>
+<p align="center">
+  <strong>2025.06.23 ~ 2025.07.04 </strong> - Collaboration-3 <a href=""> </a> <br>
+  <strong>2025.06.09 ~ 2025.06.20 </strong> - MEDICREW <a href="https://github.com/Rokey-3-D-2-Second/collaboration-2">💉 </a> <br>
+  <strong>2025.05.23 ~ 2025.06.05 </strong> - DrawBot <a href="https://github.com/Rokey-3-D-2/dr_writer">🖌 </a> <br>
+  <strong>2025.05.16 ~ 2025.05.22 </strong> - CODA(Collection of Data for Accidents) <a href="https://github.com/Rokey-3-D-autonomous/coda">👮‍♂️ </a> <br>
+</p>
+
 #### <p align="center">[Academic]</p>
 <p align="center">
-  <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS <a href="https://github.com/Coordikitty/coordikitty-BE">🧥</a> <br>
+  <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS <a href="https://github.com/Coordikitty/coordikitty-BE">🧥 </a> <br>
   <strong>2023.09~2023.12 SW Engineering</strong> - Video Platform <a href="https://github.com/hotteok00/vertex">🎞️</a> <br>
   <strong>2023.03~2023.06 SW Design</strong> - Financial Ledger <a href="https://github.com/hotteok00/software_design">📆</a> <br>
   <strong>2023.05~2023.06 IoT</strong> - Finder <a href="https://github.com/hotteok00/finder">🚗</a>
@@ -44,6 +52,11 @@ Here are some ideas to get you started:
 ---
 
 ### <p align="center">✨ Tech Stack ✨</p>
+
+#### <p align="center">[Robot]</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <br>
+</p>
 
 #### <p align="center">[Front-End]</p>
 <p align="center">
@@ -135,6 +148,8 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Additional Training]</p>
 <p align="center">
+  <strong>Doosan Rokey Boot Camp 3기</strong><br>
+  <strong>AI전문인력양성심화교육</strong><br>
   <strong>인공지능 중급과정 이수</strong> - 포항테크노파크
 </p>
 
