@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 
 #### <p align="center">[Robot]</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}"> -->
 </p>
 
 #### <p align="center">[Front-End]</p>
