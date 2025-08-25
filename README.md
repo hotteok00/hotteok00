@@ -164,16 +164,16 @@ Here are some ideas to get you started:
 
 | Category | Skills |
 |----------|--------|
-| Robot 🤖| ROS, Linux |
-| Front-End 🎨| React, Next.js |
-| Back-End 🖥| Spring Boot, Node.js, Express.js, NestJS, FastAPI |
-| Database 🗄| MySQL, MariaDB, Oracle, MongoDB, Firebase, Redis |
-| ML/DL 🧠| PyTorch, TensorFlow, Scikit-Learn |
-| Cloud ☁️| AWS, GCP |
-| Virtualization 📦| Docker, WSL, VMware |
-| Middleware 🔗| RabbitMQ |
-| IoT 📡| Raspberry Pi, Arduino |
-| Languages 💻| Python, Java, JavaScript, C++, C, R |
+| 🤖 Robot | ROS, Linux |
+| 🎨 Front-End | React, Next.js |
+| 🖥 Back-End | Spring Boot, Node.js, Express.js, NestJS, FastAPI |
+| 🗄 Database | MySQL, MariaDB, Oracle, MongoDB, Firebase, Redis |
+| 🧠 ML/DL | PyTorch, TensorFlow, Scikit-Learn |
+| ☁️ Cloud | AWS, GCP |
+| 📦 Virtualization | Docker, WSL, VMware |
+| 🔗 Middleware | RabbitMQ |
+| 📡 IoT | Raspberry Pi, Arduino |
+| 💻 Languages | Python, Java, JavaScript, C++, C, R |
 
 
 <!--
