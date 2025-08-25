@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
 
+# 👤 About Me & Currently Studying
+- 🤖 Robotics & Physical AI 엔지니어 지망생  
+- 🛠 ROS2, Gazebo, MoveIt2 기반 로봇 제어 및 자율주행 프로젝트 경험  
+
+
 <!-- 
 ### <p align="center">📁 Projects</p> 
 -->
@@ -65,20 +70,16 @@ Here are some ideas to get you started:
 -->
 
 ### Doosan Rokey Boot Camp 3기
-| 기간 | 프로젝트 | GitHub |
-|------|----------|------|
-| 2025.06.23 ~ 2025.07.04 | 🧹 Roady | [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-3) |
-| 2025.06.09 ~ 2025.06.20 | 💉 MEDICREW | [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-2) |
-| 2025.05.23 ~ 2025.06.05 | 🖌 DrawBot | [GitHub](https://github.com/Rokey-3-D/dr_writer) |
-| 2025.05.16 ~ 2025.05.22 | 👮 CODA | [GitHub](https://github.com/Rokey-3-D-autonomous/coda) |
+- 2025.06.23 ~ 2025.07.04: 🧹 Roady – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-3)  
+- 2025.06.09 ~ 2025.06.20: 💉 MEDICREW – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-2)  
+- 2025.05.23 ~ 2025.06.05: 🖌 DrawBot – [GitHub](https://github.com/Rokey-3-D/dr_writer)  
+- 2025.05.16 ~ 2025.05.22: 👮 CODA – [GitHub](https://github.com/Rokey-3-D-autonomous/coda)  
 
 ### Undergraduate
-| 기간 | 프로젝트 | GitHub |
-|------|----------|------|
-| 2024.03 ~ 2024.12 | 🧥 MIDAS | [GitHub](https://github.com/Coordikitty/coordikitty-BE) |
-| 2023.09 ~ 2023.12 | 🎞 Video Platform | [GitHub](https://github.com/hotteok00/vertex) |
-| 2023.03 ~ 2023.06 | 📆 Financial Ledger | [GitHub](https://github.com/hotteok00/software_design) |
-| 2023.05 ~ 2023.06 | 🚗 IoT Finder | [GitHub](https://github.com/hotteok00/finder) |
+- 2024.03 ~ 2024.12: 🧥 MIDAS – [GitHub](https://github.com/Coordikitty/coordikitty-BE)  
+- 2023.09 ~ 2023.12: 🎞 Video Platform – [GitHub](https://github.com/hotteok00/vertex)  
+- 2023.03 ~ 2023.06: 📆 Financial Ledger – [GitHub](https://github.com/hotteok00/software_design)  
+- 2023.05 ~ 2023.06: 🚗 IoT Finder – [GitHub](https://github.com/hotteok00/finder)  
 
 
 <!--
@@ -162,18 +163,35 @@ Here are some ideas to get you started:
 </p>
 -->
 
-| Category | Skills |
-|----------|--------|
-| 🤖 Robot | ROS, Linux |
-| 🎨 Front-End | React, Next.js |
-| 🖥 Back-End | Spring Boot, Node.js, Express.js, NestJS, FastAPI |
-| 🗄 Database | MySQL, MariaDB, Oracle, MongoDB, Firebase, Redis |
-| 🧠 ML/DL | PyTorch, TensorFlow, Scikit-Learn |
-| ☁️ Cloud | AWS, GCP |
-| 📦 Virtualization | Docker, WSL, VMware |
-| 🔗 Middleware | RabbitMQ |
-| 📡 IoT | Raspberry Pi, Arduino |
-| 💻 Languages | Python, Java, JavaScript, C++, C, R |
+### 🤖 Robot
+ROS2, Moveit2, Gazebo
+
+### 🎨 Front-End
+React, Next.js
+
+### 🖥 Back-End
+Spring Boot, Node.js, Express.js, NestJS, FastAPI
+
+### 🗄 Database
+MySQL, MariaDB, Oracle, MongoDB, Firebase, Redis
+
+### 🧠 AI
+PyTorch, TensorFlow, Scikit-Learn
+
+### ☁️ Cloud
+AWS, GCP
+
+### 📦 Virtualization
+Docker, WSL, VMware
+
+### 🔗 Middleware
+RabbitMQ
+
+### 📡 IoT
+Raspberry Pi, Arduino
+
+### 💻 Programming Languages
+Python, Java, JavaScript, C++, C, R
 
 
 <!--
