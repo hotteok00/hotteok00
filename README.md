@@ -20,41 +20,75 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
 
-### <p align="center">📁 Projects 📁</p>
+<!-- 
+### <p align="center">📁 Projects</p> 
+-->
+# 📁 Projects
 
+<!-- 
 #### <p align="center">[Doosan Rokey Boot Camp 3기]</p>
+### [Doosan Rokey Boot Camp 3기]
 <p align="center">
-  <strong>2025.06.23 ~ 2025.07.04 </strong> - Collaboration-3 <a href=""> </a> <br>
+</p>
+  <strong>2025.06.23 ~ 2025.07.04 </strong> - Roady <a href="https://github.com/Rokey-3-D-2-Second/collaboration-3">🧹 </a> <br>
   <strong>2025.06.09 ~ 2025.06.20 </strong> - MEDICREW <a href="https://github.com/Rokey-3-D-2-Second/collaboration-2">💉 </a> <br>
   <strong>2025.05.23 ~ 2025.06.05 </strong> - DrawBot <a href="https://github.com/Rokey-3-D-2/dr_writer">🖌 </a> <br>
-  <strong>2025.05.16 ~ 2025.05.22 </strong> - CODA(Collection of Data for Accidents) <a href="https://github.com/Rokey-3-D-autonomous/coda">👮‍♂️ </a> <br>
-</p>
+  <strong>2025.05.16 ~ 2025.05.22 </strong> - CODA <a href="https://github.com/Rokey-3-D-autonomous/coda">👮‍♂️ </a> <br>
+-->
 
+<!--
 #### <p align="center">[Academic]</p>
+### [Undergraduate]
 <p align="center">
+</p>
   <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS <a href="https://github.com/Coordikitty/coordikitty-BE">🧥 </a> <br>
   <strong>2023.09~2023.12 SW Engineering</strong> - Video Platform <a href="https://github.com/hotteok00/vertex">🎞️</a> <br>
   <strong>2023.03~2023.06 SW Design</strong> - Financial Ledger <a href="https://github.com/hotteok00/software_design">📆</a> <br>
   <strong>2023.05~2023.06 IoT</strong> - Finder <a href="https://github.com/hotteok00/finder">🚗</a>
-</p>
+-->
 
+<!--
 #### <p align="center">[Outsourcing]</p>
+### [Outsourcing]
 <p align="center">
-  <strong>2023.08~2023.10 NaviCode</strong>
 </p>
+  <strong>2023.08~2023.10 NaviCode</strong>
+-->
 
+<!--
 #### <p align="center">[Study]</p>
+### [Study]
 <p align="center">
+</p>
   <strong>2023 JS/React study</strong> - SNS<br>
   <strong>2023 NodeJS study</strong>
-</p>
+-->
 
----
+### Doosan Rokey Boot Camp 3기
+| 기간 | 프로젝트 | GitHub |
+|------|----------|------|
+| 2025.06.23 ~ 2025.07.04 | 🧹 Roady | [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-3) |
+| 2025.06.09 ~ 2025.06.20 | 💉 MEDICREW | [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-2) |
+| 2025.05.23 ~ 2025.06.05 | 🖌 DrawBot | [GitHub](https://github.com/Rokey-3-D/dr_writer) |
+| 2025.05.16 ~ 2025.05.22 | 👮 CODA | [GitHub](https://github.com/Rokey-3-D-autonomous/coda) |
 
-### <p align="center">✨ Tech Stack ✨</p>
+### Undergraduate
+| 기간 | 프로젝트 | GitHub |
+|------|----------|------|
+| 2024.03 ~ 2024.12 | 🧥 MIDAS | [GitHub](https://github.com/Coordikitty/coordikitty-BE) |
+| 2023.09 ~ 2023.12 | 🎞 Video Platform | [GitHub](https://github.com/hotteok00/vertex) |
+| 2023.03 ~ 2023.06 | 📆 Financial Ledger | [GitHub](https://github.com/hotteok00/software_design) |
+| 2023.05 ~ 2023.06 | 🚗 IoT Finder | [GitHub](https://github.com/hotteok00/finder) |
+
+
+<!--
+### <p align="center">✨ Tech Stack</p>
+-->
+# ✨ Tech Stack
 
 <!--   <img src="https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}" alt="{배지이름}"> -->
 
+<!--
 #### <p align="center">[Robot]</p>
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS">
@@ -126,11 +160,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
+-->
 
----
+| Category | Skills |
+|----------|--------|
+| Robot 🤖| ROS, Linux |
+| Front-End 🎨| React, Next.js |
+| Back-End 🖥| Spring Boot, Node.js, Express.js, NestJS, FastAPI |
+| Database 🗄| MySQL, MariaDB, Oracle, MongoDB, Firebase, Redis |
+| ML/DL 🧠| PyTorch, TensorFlow, Scikit-Learn |
+| Cloud ☁️| AWS, GCP |
+| Virtualization 📦| Docker, WSL, VMware |
+| Middleware 🔗| RabbitMQ |
+| IoT 📡| Raspberry Pi, Arduino |
+| Languages 💻| Python, Java, JavaScript, C++, C, R |
 
-### <p align="center">⚓ Other ⚓</p>
 
+<!--
+### <p align="center">⚓ Other</p>
+-->
+# ⚓ Other
+
+<!--
 #### <p align="center">[Certifications]</p>
 <p align="center">
   <strong>정보처리기사</strong><br>
@@ -142,6 +193,7 @@ Here are some ideas to get you started:
 <p align="center">
   <strong>2024 춘계종합학술대회 학생우수논문상</strong> - 한국정보통신학회
 </p>
+-->
 
 <!--
 #### <p align="center">[Languages]</p>
@@ -150,6 +202,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<!--
 #### <p align="center">[Additional Training]</p>
 <p align="center">
   <strong>Doosan Rokey Boot Camp 3기</strong><br>
@@ -160,13 +213,33 @@ Here are some ideas to get you started:
 #### <p align="center">[Books and Study]</p>
 <p align="center">
   <strong>CS 책</strong>: (link 추가 예정)<br>
+  <strong>Robotics 책</strong>: Modern Robotics<br>
   <strong>스터디</strong>: JavaScript, React, Coding Test
 </p>
+-->
 
+### Certifications
+- 정보처리기사
+- SQLD
+
+### Awards
+- 2024 춘계종합학술대회 학생우수논문상 (한국정보통신학회)
+
+### Additional Training
+- Doosan Rokey Boot Camp 3기
+- AI전문인력양성심화교육
+- 인공지능 중급과정 (포항테크노파크)
+
+### Books & Study
+- CS: (link 예정)
+- Robotics: Modern Robotics
+- Study: JavaScript, React, Coding Test
+
+<!--
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotteok00&layout=compact" alt="Top Langs">
   <br>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=hotteok00&show_icons=true&theme=radical" alt="hotteok's GitHub stats"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hotteok00&show_icons=true&theme=radical" alt="hotteok's GitHub stats">
 </p>
+-->
