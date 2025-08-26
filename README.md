@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
 -->
 
-# 👤 About Me & Currently Studying
+# 👤 About Me
 - 🤖 Robotics & Physical AI 엔지니어 지망생  
 - 🛠 ROS2, Gazebo, MoveIt2 기반 로봇 제어 및 자율주행 프로젝트 경험  
 
