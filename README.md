@@ -249,9 +249,9 @@ Python, Java, JavaScript, C++, C, R
 - 인공지능 중급과정 (포항테크노파크)
 
 ### Books & Study
-- CS: (link 예정)
+<!--- CS: (link 예정)-->
 - Robotics: Modern Robotics
-- Study: JavaScript, React, Coding Test
+- Study: JavaScript, React, Coding Test, Modern Robotics, VLA
 
 <!--
 ---
