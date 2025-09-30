@@ -251,7 +251,7 @@ Python, Java, JavaScript, C++, C, R
 ### Books & Study
 <!--- CS: (link 예정)-->
 - Robotics: Modern Robotics
-- Study: JavaScript, React, Coding Test, Modern Robotics, VLA
+- Study: [JavaScript](https://github.com/hotteok00/FE-JavaScript-Study), [React](https://github.com/hotteok00/FE-React-Study), [Back](https://github.com/hotteok00/2023_Back_Study), [Modern Robotics](https://github.com/hotteok00/modern_robotics), [VLA](https://github.com/PIT-Study/PIT-Study)
 
 <!--
 ---
