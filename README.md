@@ -18,10 +18,6 @@
 - **[aic-workspace](https://github.com/hotteok00/aic-workspace)** — AI for Industry Challenge 참가 프로젝트 (RLinf · LeRobot · MuJoCo 기반 로봇 조작 학습)
 - **[aitop](https://github.com/hotteok00/aitop)** — AI CLI 툴 통합 모니터
 
-### Tools & Automation
-- **[MosaiqJob](https://github.com/hotteok00/MosaiqJob)** — AI 기반 채용 서류 자동화 파이프라인 (이력서 · 포트폴리오 · 자소서)
-- **[weekly-brief](https://github.com/hotteok00/weekly-brief)** — 뉴스 큐레이션 주간 브리핑 자동화
-
 ### Doosan Rokey Boot Camp 3기
 - 2025.06.23 ~ 2025.07.04: 🧹 Roady – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-3)
 - 2025.06.09 ~ 2025.06.20: 💉 MEDICREW – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-2)
