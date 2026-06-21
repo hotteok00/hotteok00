@@ -1,170 +1,46 @@
+# 이호준 · Lee Ho Jun
 
-<!--
-**hotteok00/hotteok00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+- 🤖 Robotics & Physical AI 엔지니어
+- 🏢 ROSAIC 재직 중
+- 🧠 로봇 학습 인프라, 자율 조작, Physical AI 연구개발
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 기간 | 회사 | 역할 |
+|------|------|------|
+| 2026.04 ~ 현재 | **ROSAIC** | 로봇 학습 플랫폼 개발 |
+| 2025.10 ~ 2026.04 | **VisionSpace** | Physical AI 학습 인프라 개발 |
 
-<!--
-# Welcome to My GitHub Page
-![GitHub followers](https://img.shields.io/github/followers/hotteok00?style=social)
-![GitHub stars](https://img.shields.io/github/stars/hotteok00?style=social)
--->
+## 📁 Projects
 
-# 👤 About Me
-- 🤖 Robotics & Physical AI 엔지니어 지망생  
-- 🛠 ROS2, Gazebo, MoveIt2 기반 로봇 제어 및 자율주행 프로젝트 경험  
+### Physical AI
+- **[aic-workspace](https://github.com/hotteok00/aic-workspace)** — AI for Industry Challenge 참가 프로젝트 (RLinf · LeRobot · MuJoCo 기반 로봇 조작 학습)
+- **[aitop](https://github.com/hotteok00/aitop)** — AI CLI 툴 통합 모니터
 
-
-<!-- 
-### <p align="center">📁 Projects</p> 
--->
-# 📁 Projects
-
-<!-- 
-#### <p align="center">[Doosan Rokey Boot Camp 3기]</p>
-### [Doosan Rokey Boot Camp 3기]
-<p align="center">
-</p>
-  <strong>2025.06.23 ~ 2025.07.04 </strong> - Roady <a href="https://github.com/Rokey-3-D-2-Second/collaboration-3">🧹 </a> <br>
-  <strong>2025.06.09 ~ 2025.06.20 </strong> - MEDICREW <a href="https://github.com/Rokey-3-D-2-Second/collaboration-2">💉 </a> <br>
-  <strong>2025.05.23 ~ 2025.06.05 </strong> - DrawBot <a href="https://github.com/Rokey-3-D-2/dr_writer">🖌 </a> <br>
-  <strong>2025.05.16 ~ 2025.05.22 </strong> - CODA <a href="https://github.com/Rokey-3-D-autonomous/coda">👮‍♂️ </a> <br>
--->
-
-<!--
-#### <p align="center">[Academic]</p>
-### [Undergraduate]
-<p align="center">
-</p>
-  <strong>2024.03~2024.12 MIDAS</strong> - Fashion Recommend SNS <a href="https://github.com/Coordikitty/coordikitty-BE">🧥 </a> <br>
-  <strong>2023.09~2023.12 SW Engineering</strong> - Video Platform <a href="https://github.com/hotteok00/vertex">🎞️</a> <br>
-  <strong>2023.03~2023.06 SW Design</strong> - Financial Ledger <a href="https://github.com/hotteok00/software_design">📆</a> <br>
-  <strong>2023.05~2023.06 IoT</strong> - Finder <a href="https://github.com/hotteok00/finder">🚗</a>
--->
-
-<!--
-#### <p align="center">[Outsourcing]</p>
-### [Outsourcing]
-<p align="center">
-</p>
-  <strong>2023.08~2023.10 NaviCode</strong>
--->
-
-<!--
-#### <p align="center">[Study]</p>
-### [Study]
-<p align="center">
-</p>
-  <strong>2023 JS/React study</strong> - SNS<br>
-  <strong>2023 NodeJS study</strong>
--->
+### Tools & Automation
+- **[MosaiqJob](https://github.com/hotteok00/MosaiqJob)** — AI 기반 채용 서류 자동화 파이프라인 (이력서 · 포트폴리오 · 자소서)
+- **[weekly-brief](https://github.com/hotteok00/weekly-brief)** — 뉴스 큐레이션 주간 브리핑 자동화
 
 ### Doosan Rokey Boot Camp 3기
-- 2025.06.23 ~ 2025.07.04: 🧹 Roady – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-3)  
-- 2025.06.09 ~ 2025.06.20: 💉 MEDICREW – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-2)  
-- 2025.05.23 ~ 2025.06.05: 🖌 DrawBot – [GitHub](https://github.com/Rokey-3-D/dr_writer)  
-- 2025.05.16 ~ 2025.05.22: 👮 CODA – [GitHub](https://github.com/Rokey-3-D-autonomous/coda)  
+- 2025.06.23 ~ 2025.07.04: 🧹 Roady – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-3)
+- 2025.06.09 ~ 2025.06.20: 💉 MEDICREW – [GitHub](https://github.com/Rokey-3-D-2-Second/collaboration-2)
+- 2025.05.23 ~ 2025.06.05: 🖌 DrawBot – [GitHub](https://github.com/Rokey-3-D/dr_writer)
+- 2025.05.16 ~ 2025.05.22: 👮 CODA – [GitHub](https://github.com/Rokey-3-D-autonomous/coda)
 
 ### Undergraduate
-- 2024.03 ~ 2024.12: 🧥 MIDAS – [GitHub](https://github.com/Coordikitty/coordikitty-BE)  
-- 2023.09 ~ 2023.12: 🎞 Video Platform – [GitHub](https://github.com/hotteok00/vertex)  
-- 2023.03 ~ 2023.06: 📆 Financial Ledger – [GitHub](https://github.com/hotteok00/software_design)  
-- 2023.05 ~ 2023.06: 🚗 IoT Finder – [GitHub](https://github.com/hotteok00/finder)  
+- 2024.03 ~ 2024.12: 🧥 MIDAS – [GitHub](https://github.com/Coordikitty/coordikitty-BE)
+- 2023.09 ~ 2023.12: 🎞 Video Platform – [GitHub](https://github.com/hotteok00/vertex)
+- 2023.03 ~ 2023.06: 📆 Financial Ledger – [GitHub](https://github.com/hotteok00/software_design)
+- 2023.05 ~ 2023.06: 🚗 IoT Finder – [GitHub](https://github.com/hotteok00/finder)
 
+## ✨ Tech Stack
 
-<!--
-### <p align="center">✨ Tech Stack</p>
--->
-# ✨ Tech Stack
+### 🤖 Robotics & Physical AI
+ROS2, MoveIt2, Gazebo, MuJoCo, LeRobot
 
-<!--   <img src="https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}" alt="{배지이름}"> -->
-
-<!--
-#### <p align="center">[Robot]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
-</p>
-
-#### <p align="center">[Front-End]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
-</p>
-
-#### <p align="center">[Back-End]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
-
-#### <p align="center">[Database]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
-
-#### <p align="center">[Machine Learning / Deep Learning]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-</p>
-
-#### <p align="center">[Cloud]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=while" alt="AWS">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-</p>
-
-#### <p align="center">[Virtualization]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/WSL-4E9C13?style=for-the-badge&logo=linux&logoColor=white" alt="WSL">
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
-</p>
-
-#### <p align="center">[Middleware]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-</p>
-
-#### <p align="center">[IoT]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-</p>
-
-#### <p align="center">[Programming Languages]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-</p>
--->
-
-### 🤖 Robot
-ROS2, Moveit2, Gazebo
+### 🧠 AI / ML
+PyTorch, TensorFlow, Scikit-Learn, HuggingFace
 
 ### 🎨 Front-End
 React, Next.js
@@ -173,68 +49,15 @@ React, Next.js
 Spring Boot, Node.js, Express.js, NestJS, FastAPI
 
 ### 🗄 Database
-MySQL, MariaDB, Oracle, MongoDB, Firebase, Redis
+MySQL, MariaDB, MongoDB, Firebase, Redis
 
-### 🧠 AI
-PyTorch, TensorFlow, Scikit-Learn
+### ☁️ Cloud & DevOps
+AWS, GCP, Docker
 
-### ☁️ Cloud
-AWS, GCP
+### 💻 Languages
+Python, C++, JavaScript, Java, C, R
 
-### 📦 Virtualization
-Docker, WSL, VMware
-
-### 🔗 Middleware
-RabbitMQ
-
-### 📡 IoT
-Raspberry Pi, Arduino
-
-### 💻 Programming Languages
-Python, Java, JavaScript, C++, C, R
-
-
-<!--
-### <p align="center">⚓ Other</p>
--->
-# ⚓ Other
-
-<!--
-#### <p align="center">[Certifications]</p>
-<p align="center">
-  <strong>정보처리기사</strong><br>
-  <strong>SQLD</strong><br>
-  <strong>IP정보검색사</strong>
-</p>
-
-#### <p align="center">[Awards]</p>
-<p align="center">
-  <strong>2024 춘계종합학술대회 학생우수논문상</strong> - 한국정보통신학회
-</p>
--->
-
-<!--
-#### <p align="center">[Languages]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TOEIC-800-blue" alt="TOEIC">
-</p>
--->
-
-<!--
-#### <p align="center">[Additional Training]</p>
-<p align="center">
-  <strong>Doosan Rokey Boot Camp 3기</strong><br>
-  <strong>AI전문인력양성심화교육</strong><br>
-  <strong>인공지능 중급과정 이수</strong> - 포항테크노파크
-</p>
-
-#### <p align="center">[Books and Study]</p>
-<p align="center">
-  <strong>CS 책</strong>: (link 추가 예정)<br>
-  <strong>Robotics 책</strong>: Modern Robotics<br>
-  <strong>스터디</strong>: JavaScript, React, Coding Test
-</p>
--->
+## ⚓ Other
 
 ### Certifications
 - 정보처리기사
@@ -249,15 +72,5 @@ Python, Java, JavaScript, C++, C, R
 - 인공지능 중급과정 (포항테크노파크)
 
 ### Books & Study
-<!--- CS: (link 예정)-->
 - Robotics: Modern Robotics
 - Study: [JavaScript](https://github.com/hotteok00/FE-JavaScript-Study), [React](https://github.com/hotteok00/FE-React-Study), [Back](https://github.com/hotteok00/2023_Back_Study), [Modern Robotics](https://github.com/hotteok00/modern_robotics), [VLA](https://github.com/PIT-Study/PIT-Study)
-
-<!--
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotteok00&layout=compact" alt="Top Langs">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hotteok00&show_icons=true&theme=radical" alt="hotteok's GitHub stats">
-</p>
--->
